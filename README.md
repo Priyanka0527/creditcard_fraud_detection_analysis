@@ -1,6 +1,7 @@
-#FRAUD DETECTION SYSTEM USING NEURAL NETWORKS
+# FRAUD DETECTION SYSTEM USING NEURAL NETWORKS
 
 Motivation and Problem Description :
+<br>
 Credit card fraud is a serious problem that inflicts considerable financial loss on both institutions and 
 customers. The central agenda of the issue is in the necessity to identify fraudulent transactions properly, on 
 time and correctly in data that is naturally imbalanced—only a very tiny fraction of total transactions are 
