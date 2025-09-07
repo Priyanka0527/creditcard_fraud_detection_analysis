@@ -15,8 +15,7 @@ Approach :
 To tackle the above mentioned challenges, our project leverages neural network models with a focus on two 
 principal components: 
 1. Data Preprocessing and Balancing: <br> 
-•  Begin by normalizing the dataset using standard scaling to ensure that all features contribute    
-equally to the model's learning process. <br> 
+•  Begin by normalizing the dataset using standard scaling to ensure that all features contribute equally to the model's learning process. <br> 
 • The StandardScaler is a preprocessing technique used in machine learning that standardizes the 
 features of a dataset by transforming them to have zero mean and unit variance. This ensured that 
 all the features contribute equally during model training and prevents certain features with larger 
