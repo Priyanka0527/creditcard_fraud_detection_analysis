@@ -36,7 +36,8 @@ of an imbalanced dataset.
 • The network is trained on the preprocessed dataset and evaluated using a classification report focusing 
 on metrics like precision, recall, and F1 score. Then graphical plots are used to visualize the 
 performance differences between the various activation functions and optimizers, providing practical 
-insights into which combination yields the best trade-off in detecting fraudulent transactions. 
+insights into which combination yields the best trade-off in detecting fraudulent transactions.
+
 1.3 Basic Results and Conclusions : 
 Activation functions and optimizers work together to achieve optimal detection rates for fraudulent 
 transactions, according to our initial evaluations using our neural network model. The classification reports 
